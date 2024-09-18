@@ -2,6 +2,8 @@
 
 The S3 File Remover is a command-line utility designed to bulk delete objects from Amazon S3 or S3-compatible storage systems (like MinIO) based on their last modified date. This tool is particularly useful for managing large numbers of objects and performing cleanup operations on your storage buckets.
 
+See [s3-file-generator](https://github.com/zinrai/s3-file-generator) for file generation to s3.
+
 ## Features
 
 - Bulk deletion of objects older than a specified date
